@@ -1,0 +1,10 @@
+# langchain and google gemini and open ai
+langchain
+langchain-google-genai 
+google-generativeai
+python-dotenv
+openai
+
+# Yaml files
+PyYAML
+
